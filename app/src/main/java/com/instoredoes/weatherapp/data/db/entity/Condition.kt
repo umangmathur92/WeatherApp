@@ -1,4 +1,4 @@
-package com.instoredoes.weatherapp.data.response
+package com.instoredoes.weatherapp.data.db.entity
 
 
 import com.google.gson.annotations.SerializedName

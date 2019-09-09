@@ -1,6 +1,8 @@
-package com.instoredoes.weatherapp.data.response
+package com.instoredoes.weatherapp.data.network.response
 
 import com.google.gson.annotations.SerializedName
+import com.instoredoes.weatherapp.data.db.entity.CurrentWeatherEntry
+import com.instoredoes.weatherapp.data.db.entity.Location
 
 
 data class CurrentWeatherResponse(
